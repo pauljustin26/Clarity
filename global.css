@@ -1,0 +1,10 @@
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/preflight.css" layer(base);
+@import "tailwindcss/utilities.css";
+@import "nativewind/theme";
+
+@theme {
+  --color-clarity-cream: #fffdf5;
+  --color-clarity-ink: #111827;
+  --color-clarity-blue: #004f8b;
+}

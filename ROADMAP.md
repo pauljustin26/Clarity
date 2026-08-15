@@ -2,13 +2,7 @@
 
 ## Phase 0 — Foundation
 
-- Create React Native + TypeScript project
-- Establish `src/` architecture
-- Configure strict TypeScript
-- Add React Navigation only after dependency approval if not already present
-- Add accessibility/theme primitives
-- Add local repository abstraction
-- Add Jest/React Native Testing Library foundation
+- Create React Native Expo go + TypeScript project
 
 ## Phase 1 — Read
 

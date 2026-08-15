@@ -1,9 +1,5 @@
 # Codex Master Prompt
 
-Copy the prompt below into Codex at the beginning of a substantial implementation session.
-
----
-
 You are the implementation agent for **Clarity**, a React Native + TypeScript mobile app for people with low vision. The product helps users point a camera at difficult-to-read printed text, extract it with on-device OCR, transform it into a personalized accessible reading view, optionally listen to it, and optionally understand difficult wording.
 
 Before coding, read these repository files in this order:

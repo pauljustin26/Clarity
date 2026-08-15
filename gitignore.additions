@@ -1,0 +1,10 @@
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local model files if experimented with later
+*.gguf
+
+# Temporary captured images / local debug data
+.tmp/
